@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: snow;
+    text-align: center;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.hide {
+    display: none;
+}
